@@ -1,0 +1,8 @@
+__descr__ = 'Orion example'
+__version__ = '1.0.0'
+__license__ = 'BSD 3-Clause License'
+__author__ = u'Pierre Delaunay'
+__author_short__ = u'Pierre Delaunay'
+__author_email__ = 'pierre.delaunay@mila.quebec'
+__copyright__ = u'2021 Pierre Delaunay'
+__url__ = 'https://github.com/Delaunay/orion-example'
